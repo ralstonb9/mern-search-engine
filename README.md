@@ -14,11 +14,11 @@ This week we were given the starter code for a book search engine that allows us
 
 ## Screenshot
 
-![MERN Search Engine]()
+![MERN Search Engine](/images/mern-search-engine.png)
 
 ## Deployed Link
 
-
+https://hidden-mesa-78235-ad75dbd480bf.herokuapp.com/
 
 ## Installation
 
